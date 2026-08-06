@@ -23,5 +23,6 @@
 | __3__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
 | __4__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
 | __5__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
+| __6__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
 
 </div>
