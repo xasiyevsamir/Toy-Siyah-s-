@@ -16,7 +16,7 @@
 
 <div align="center">
 
-| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Ailəvi / Xanımı ilə`__ | __`Gəldi`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
+| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`Gəldi`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 | --- | --- | --- |--- |--- |--- |--- |
 
 </div>
