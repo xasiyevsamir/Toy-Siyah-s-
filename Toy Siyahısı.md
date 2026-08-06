@@ -10,10 +10,11 @@
 ## `Kənd Siyahısı`
 
 
-_Sütundakı fərqli və ya təkrarlanan dəyərlərlə işləmək üçün istifadə olunur_
+<!-- _Sütundakı fərqli və ya təkrarlanan dəyərlərlə işləmək üçün istifadə olunur_ -->
+
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Ailəvi / Xanımı ilə`__ | __`Gəldi`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 
-| --- | --- | --- |
+| --- | --- | --- |--- |--- |--- |--- |
 <!-- | __GROUPING()__ | _ROLLUP və ya CUBE nəticəsində yaranan sətirləri müəyyən edir._ | `SELECT GROUPING(Department) FROM Employees;` |
 | __GROUPING_ID()__ | _GROUPING-dən daha çox dəyərləri fərqləndirmək üçün istifadə olunur._ | `SELECT GROUPING_ID(Department, Role) FROM Employees;` |
 | __CHECKSUM_AGG()__ | _Sütundakı rəqəmlərin kontrol cəmini qaytarır._ | `SELECT CHECKSUM_AGG(Salary) FROM Employees;` |
