@@ -9,7 +9,6 @@
 
 ## `Kənd Siyahısı`
 
-| № | Adlar | Qohumluq | Ailəvi / Xanımı ilə | Gəldi | Məbləğ (AZN) | Qeyd |
 
 _Sütundakı fərqli və ya təkrarlanan dəyərlərlə işləmək üçün istifadə olunur_
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Ailəvi / Xanımı ilə`__ | __`Gəldi`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
