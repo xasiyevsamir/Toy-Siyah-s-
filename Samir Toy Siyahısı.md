@@ -26,3 +26,27 @@
 | __6__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
 
 </div>
+
+
+<br/><br/>
+
+
+
+<h2 align="center">
+
+   `Bərdə Siyahısı`
+
+</h2>
+
+<div align="center">
+
+| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
+| --- | --- | --- |--- |--- |--- |--- |
+| __1__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
+| __2__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
+| __3__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
+| __4__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
+| __5__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
+| __6__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi / Etmədi`__ |__`200 AZN`__ |`Boş`|
+
+</div>
