@@ -226,6 +226,7 @@ _`Kənd Hesablama`_
 | **`Kənd tək adamların dəvətnamə sayı`** | *112 dəvətnamə* |
 | **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *24 dəvətnamə* |
 | **`Kənd Ailəvi adamların dəvətnamə sayı`** | *52 dəvətnamə* |
+| **` `** | * * |
 | **`Kənd cəmi dəvətnamə`** | *188 dəvətnamə* |
 
 </td>
@@ -239,6 +240,7 @@ _`Kənd Hesablama`_
 | **`Kənd tək adamların sayı`** | *112 nəfər* |
 | **`Kənd Xanımı ilə adamların sayı`** | *48 nəfər* |
 | **`Kənd Ailəvi adamların sayı`** | *147 nəfər* |
+| **` `** | * * |
 | **`Kənd cəmi adamların sayı`** | *307 nəfər* |
 
 </td>
