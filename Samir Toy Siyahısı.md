@@ -210,10 +210,12 @@
 
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 
 <div align="center">
+
+_`Kənd Hesablama`_
 
 <table>
 <tr>
