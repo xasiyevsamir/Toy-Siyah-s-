@@ -275,6 +275,8 @@ _`Kənd Hesablama`_
 | __7__ |__`Dilavər`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __8__ |__`Azər Mamed`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __9__ |__`Səbuhi Qılışdı`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __9__ |__`Sahib Qaradırnaq`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __9__ |__`Asif Qaradırnaq`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __10__ |__`İlham`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __11__ |__`Aybəniz`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __12__ |__`Neymət`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
@@ -296,10 +298,10 @@ _`Bərdə Hesablama`_
 | **`Başlıq`** | **`Say`** |
 |---|---:|
 | **`Bərdə tək adamların dəvətnamə sayı`** | *7 dəvətnamə* |
-| **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *2 dəvətnamə* |
+| **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *4 dəvətnamə* |
 | **`Bərdə Ailəvi adamların dəvətnamə sayı`** | *3 dəvətnamə* |
 |  |  |
-| **`Bərdə cəmi dəvətnamə`** | *12 dəvətnamə* |
+| **`Bərdə cəmi dəvətnamə`** | *14 dəvətnamə* |
 
 </td>
 
@@ -310,10 +312,10 @@ _`Bərdə Hesablama`_
 | **`Başlıq`** | **`Say`** |
 |---|---:|
 | **`Bərdə tək adamların sayı`** | *7 nəfər* |
-| **`Bərdə Xanımı ilə adamların sayı`** | *4 nəfər* |
+| **`Bərdə Xanımı ilə adamların sayı`** | *8 nəfər* |
 | **`Bərdə Ailəvi adamların sayı`** | *7 nəfər* |
 |  |  |
-| **`Bərdə cəmi adamların sayı`** | *18nəfər* |
+| **`Bərdə cəmi adamların sayı`** | *22 nəfər* |
 
 </td>
 </tr>
