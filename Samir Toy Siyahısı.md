@@ -220,8 +220,6 @@
 | __`Kənd tək adamların sayı`__ |_50_ | 
 | __`Kənd Xanımı ilə adamların sayı`__ |_150_ | 
 | __`Kənd Ailəvi adamların sayı`__ |_250_ | 
-
-
 | __`Total`__ | __`Say`__ | 
 | --- | --- |
 | __`Kənd tək adamların sayı`__ |_50_ | 
