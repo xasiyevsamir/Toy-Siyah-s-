@@ -331,9 +331,54 @@ _`Bərdə Hesablama`_
 <br/><br/><br/>
 
 
+
+<h2 align="center">
+
+   `Mingəçevir Siyahısı`
+
+</h2>
+
 <div align="center">
 
-_`Bərdə Hesablama`_
+| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
+| --- | --- | --- |--- |--- |--- |--- |--- |--- |
+| __1__ |__`Tükəzban`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __2__ |__`Maral`__ | _Mingəçevir_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __3__ |__`Zaur`__ | _Mingəçevir_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __4__ |__`Cəlil`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __5__ |__`Amil`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __6__ |__`Namiq Elçin`__ | _Mingəçevir Qonşu_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __7__ |__`Sahibə Dilən`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __8__ |__`Nicat Fatma Xaldan`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __9__ |__`İlham`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __10__ |__`Qaqaş Nurcahan`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __11__ |__`Elnur Elçin`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __12__ |__`Ziyad`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __13__ |__`Əhliman`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __14__ |__`Sahib Nazilə`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __15__ |__`Cəmil`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __16__ |__`Telman`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __17__ |__`Fazil`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __18__ |__`Nizam`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __19__ |__`Yasin`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __20__ |__`Şahin`__ | _Mingəçevir_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __21__ |__`Arzuman`__ | _Mingəçevir Qardaş_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`5`|`0`|__`0 AZN`__ |`Boş`|
+| __22__ |__`Elçin`__ | _Mingəçevir Qardaş_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __23__ |__`İlkin Yeznə`__ | _Mingəçevir_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __24__ |__`Eldar Elçin`__ | _Mingəçevir_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
+| __25__ |__`Nizami Elçin`__ | _Mingəçevir_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
+| __26__ |__`Hüseyin`__ | _Mingəçevir_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __27__ |__`Hümbət`__ | _Mingəçevir_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __28__ |__`null`__ | _null_ | `null` | __`null`__ |`null`|`null`|__`null`__ |`null`|
+
+</div>
+
+<br/><br/><br/>
+
+
+<div align="center">
+
+_`Mingəçevir Hesablama`_
 
 <table>
 <tr>
@@ -341,11 +386,11 @@ _`Bərdə Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bərdə tək adamların dəvətnamə sayı`** | *7 dəvətnamə* |
-| **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *2 dəvətnamə* |
-| **`Bərdə Ailəvi adamların dəvətnamə sayı`** | *3 dəvətnamə* |
+| **`Mingəçevir tək adamların dəvətnamə sayı`** | *12 dəvətnamə* |
+| **`Mingəçevir Xanımı ilə adamların dəvətnamə sayı`** | *8 dəvətnamə* |
+| **`Mingəçevir Ailəvi adamların dəvətnamə sayı`** | *7 dəvətnamə* |
 |  |  |
-| **`Bərdə cəmi dəvətnamə`** | *12 dəvətnamə* |
+| **`Mingəçevir cəmi dəvətnamə`** | *27 dəvətnamə* |
 
 </td>
 
@@ -355,11 +400,11 @@ _`Bərdə Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bərdə tək adamların sayı`** | *7 nəfər* |
-| **`Bərdə Xanımı ilə adamların sayı`** | *4 nəfər* |
-| **`Bərdə Ailəvi adamların sayı`** | *7 nəfər* |
+| **`Mingəçevir tək adamların sayı`** | *14 nəfər* |
+| **`Mingəçevir Xanımı ilə adamların sayı`** | *16 nəfər* |
+| **`Mingəçevir Ailəvi adamların sayı`** | *24 nəfər* |
 |  |  |
-| **`Bərdə cəmi adamların sayı`** | *18nəfər* |
+| **`Mingəçevir cəmi adamların sayı`** | *54 nəfər* |
 
 </td>
 </tr>
@@ -373,7 +418,6 @@ _`Bərdə Hesablama`_
 
 
 <br/><br/><br/>
-
 
 
 
