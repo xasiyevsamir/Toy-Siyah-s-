@@ -247,11 +247,9 @@ _`Kənd Hesablama`_
 
 </div>
 
+<br/>
 
-
-
-
-
+- 
 
 
 <br/><br/><br/><br/>
