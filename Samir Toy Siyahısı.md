@@ -219,11 +219,12 @@
 <tr>
 <td valign="top">
 
-| **`Total`** | **`Say`** |
+| **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların sayı`** | *50* |
-| **`Kənd Xanımı ilə adamların sayı`** | *150* |
-| **`Kənd Ailəvi adamların sayı`** | *250* |
+| **`Kənd tək adamların dəvətnamə sayı`** | *112 dəvətnamə* |
+| **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *24 dəvətnamə* |
+| **`Kənd Ailəvi adamların dəvətnamə sayı`** | *52 dəvətnamə* |
+| **`Kənd cəmi dəvətnamə`** | *188 dəvətnamə* |
 
 </td>
 
@@ -231,11 +232,13 @@
 
 <td valign="top">
 
-| **`Total`** | **`Say`** |
+| **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların sayı`** | *50* |
-| **`Kənd Xanımı ilə adamların sayı`** | *150* |
-| **`Kənd Ailəvi adamların sayı`** | *250* |
+| **`Kənd tək adamların sayı`** | *112 nəfər* |
+| **`Kənd Xanımı ilə adamların sayı`** | *48 nəfər* |
+| **`Kənd Ailəvi adamların sayı`** | *147 nəfər* |
+| **`Kənd Ailəvi adamların sayı`** | *147 nəfər* |
+| **`Kənd cəmi adamların sayı`** | *307 nəfər* |
 
 </td>
 </tr>
