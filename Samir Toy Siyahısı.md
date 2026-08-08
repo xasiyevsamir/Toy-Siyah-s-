@@ -215,17 +215,31 @@
 
 <div align="center">
 
-| __`Total`__ | __`Say`__ | 
-| --- | --- |
-| __`Kənd tək adamların sayı`__ |_50_ | 
-| __`Kənd Xanımı ilə adamların sayı`__ |_150_ | 
-| __`Kənd Ailəvi adamların sayı`__ |_250_ | 
-| __`Total`__ | __`Say`__ | 
-| --- | --- |
-| __`Kənd tək adamların sayı`__ |_50_ | 
-| __`Kənd Xanımı ilə adamların sayı`__ |_150_ | 
-| __`Kənd Ailəvi adamların sayı`__ |_250_ | 
+<table>
+<tr>
+<td valign="top">
 
+| **`Total`** | **`Say`** |
+|---|---:|
+| **`Kənd tək adamların sayı`** | *50* |
+| **`Kənd Xanımı ilə adamların sayı`** | *150* |
+| **`Kənd Ailəvi adamların sayı`** | *250* |
+
+</td>
+
+<td style="padding-left: 40px;"></td>
+
+<td valign="top">
+
+| **`Total`** | **`Say`** |
+|---|---:|
+| **`Kənd tək adamların sayı`** | *50* |
+| **`Kənd Xanımı ilə adamların sayı`** | *150* |
+| **`Kənd Ailəvi adamların sayı`** | *250* |
+
+</td>
+</tr>
+</table>
 
 </div>
 
