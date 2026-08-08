@@ -252,7 +252,7 @@ _`Kənd Hesablama`_
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 
@@ -264,16 +264,120 @@ _`Kənd Hesablama`_
 
 <div align="center">
 
-| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
-| --- | --- | --- |--- |--- |--- |--- |
-| __1__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |__`0 AZN`__ |`Boş`|
-| __2__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |__`0 AZN`__ |`Boş`|
-| __3__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |__`0 AZN`__ |`Boş`|
-| __4__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |__`0 AZN`__ |`Boş`|
-| __5__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |__`0 AZN`__ |`Boş`|
-| __6__ |__`Samir Xasıyev`__ | _ROLLUP və ya_ | `Tək / Xanımı ilə / Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |__`0 AZN`__ |`Boş`|
+| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
+| --- | --- | --- |--- |--- |--- |--- |--- |--- |
+| __1__ |__`Elgiz`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __2__ |__`Fərrux`__ | _Bərdə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __3__ |__`Fərid`__ | _Bərdə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __4__ |__`Fayiq`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __5__ |__`Qabil`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __6__ |__`İsmayıl Müəllim`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __7__ |__`Dilavər`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __8__ |__`Azər Mamed`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __9__ |__`Səbuhi Qılışdı`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __10__ |__`İlham`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __11__ |__`Aybəniz`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __12__ |__`Neymət`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __13__ |__`null`__ | _null_ | `null` | __`null`__ |`null`|`null`|__`null`__ |`null`|
 
 </div>
+
+<br/><br/><br/>
+
+
+<div align="center">
+
+_`Bərdə Hesablama`_
+
+<table>
+<tr>
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Bərdə tək adamların dəvətnamə sayı`** | *7 dəvətnamə* |
+| **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *2 dəvətnamə* |
+| **`Bərdə Ailəvi adamların dəvətnamə sayı`** | *3 dəvətnamə* |
+|  |  |
+| **`Bərdə cəmi dəvətnamə`** | *12 dəvətnamə* |
+
+</td>
+
+<td style="padding-left: 40px;"></td>
+
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Bərdə tək adamların sayı`** | *7 nəfər* |
+| **`Bərdə Xanımı ilə adamların sayı`** | *4 nəfər* |
+| **`Bərdə Ailəvi adamların sayı`** | *7 nəfər* |
+|  |  |
+| **`Bərdə cəmi adamların sayı`** | *18nəfər* |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<br/><br/><br/>
+
+
+<div align="center">
+
+_`Bərdə Hesablama`_
+
+<table>
+<tr>
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Bərdə tək adamların dəvətnamə sayı`** | *7 dəvətnamə* |
+| **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *2 dəvətnamə* |
+| **`Bərdə Ailəvi adamların dəvətnamə sayı`** | *3 dəvətnamə* |
+|  |  |
+| **`Bərdə cəmi dəvətnamə`** | *12 dəvətnamə* |
+
+</td>
+
+<td style="padding-left: 40px;"></td>
+
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Bərdə tək adamların sayı`** | *7 nəfər* |
+| **`Bərdə Xanımı ilə adamların sayı`** | *4 nəfər* |
+| **`Bərdə Ailəvi adamların sayı`** | *7 nəfər* |
+|  |  |
+| **`Bərdə cəmi adamların sayı`** | *18nəfər* |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<br/><br/><br/>
+
+
+
+
+
+
+
 
 
 - İlqar rusiyaddadir gelemeyecek -- 1 nefer 
