@@ -237,7 +237,6 @@
 | **`Kənd tək adamların sayı`** | *112 nəfər* |
 | **`Kənd Xanımı ilə adamların sayı`** | *48 nəfər* |
 | **`Kənd Ailəvi adamların sayı`** | *147 nəfər* |
-| **`Kənd Ailəvi adamların sayı`** | *147 nəfər* |
 | **`Kənd cəmi adamların sayı`** | *307 nəfər* |
 
 </td>
