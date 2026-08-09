@@ -487,10 +487,10 @@ _`Bakı Hesablama`_
 | **`Başlıq`** | **`Say`** |
 |---|---:|
 | **`Bakı tək adamların dəvətnamə sayı`** | *12 dəvətnamə* |
-| **`Bakı Xanımı ilə adamların dəvətnamə sayı`** | *8 dəvətnamə* |
-| **`Bakı Ailəvi adamların dəvətnamə sayı`** | *7 dəvətnamə* |
+| **`Bakı Xanımı ilə adamların dəvətnamə sayı`** | *16 dəvətnamə* |
+| **`Bakı Ailəvi adamların dəvətnamə sayı`** | *9 dəvətnamə* |
 |  |  |
-| **`Bakı cəmi dəvətnamə`** | *27 dəvətnamə* |
+| **`Bakı cəmi dəvətnamə`** | *37 dəvətnamə* |
 
 </td>
 
@@ -500,11 +500,11 @@ _`Bakı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bakı tək adamların sayı`** | *14 nəfər* |
-| **`Bakı Xanımı ilə adamların sayı`** | *16 nəfər* |
-| **`Bakı Ailəvi adamların sayı`** | *24 nəfər* |
+| **`Bakı tək adamların sayı`** | *12 nəfər* |
+| **`Bakı Xanımı ilə adamların sayı`** | *32 nəfər* |
+| **`Bakı Ailəvi adamların sayı`** | *29 nəfər* |
 |  |  |
-| **`Bakı cəmi adamların sayı`** | *54 nəfər* |
+| **`Bakı cəmi adamların sayı`** | *73 nəfər* |
 
 </td>
 </tr>
