@@ -554,9 +554,9 @@ _`Gəncə, Oğuz və Xəsili Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Gəncə, Oğuz və Xəsili tək adamların dəvətnamə sayı`** | *4 dəvətnamə* |
-| **`Gəncə, Oğuz və Xəsili Xanımı ilə adamların dəvətnamə sayı`** | *1 dəvətnamə* |
-| **`Gəncə, Oğuz və Xəsili Ailəvi adamların dəvətnamə sayı`** | *1 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili tək dəvətnamə sayı`** | *4 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili Xanımı ilə dəvətnamə sayı`** | *1 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili Ailəvi dəvətnamə sayı`** | *1 dəvətnamə* |
 |  |  |
 | **`Gəncə, Oğuz və Xəsili cəmi dəvətnamə`** | *6 dəvətnamə* |
 
