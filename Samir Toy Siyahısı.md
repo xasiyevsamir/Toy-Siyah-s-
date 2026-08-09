@@ -596,4 +596,4 @@ _`Gəncə, Oğuz və Xəsili Hesablama`_
 - İsmayıl rusiyaddadir gelemeyecek -- 1 nefer 
 - Mayıl rusiyaddadir gelemeyecek -- 1 nefer 
 
-- Əhliman adindan 2 denedir 
+- Əhliman adindan 2 denedirr
