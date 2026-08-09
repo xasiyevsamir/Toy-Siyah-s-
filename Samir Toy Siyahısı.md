@@ -298,11 +298,11 @@ _`Bərdə Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bərdə tək adamların dəvətnamə sayı`** | *7 dəvətnamə* |
+| **`Bərdə tək adamların dəvətnamə sayı`** | *8 dəvətnamə* |
 | **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *4 dəvətnamə* |
 | **`Bərdə Ailəvi adamların dəvətnamə sayı`** | *3 dəvətnamə* |
 |  |  |
-| **`Bərdə cəmi dəvətnamə`** | *14 dəvətnamə* |
+| **`Bərdə cəmi dəvətnamə`** | *15 dəvətnamə* |
 
 </td>
 
@@ -312,11 +312,11 @@ _`Bərdə Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bərdə tək adamların sayı`** | *7 nəfər* |
+| **`Bərdə tək adamların sayı`** | *8 nəfər* |
 | **`Bərdə Xanımı ilə adamların sayı`** | *8 nəfər* |
 | **`Bərdə Ailəvi adamların sayı`** | *7 nəfər* |
 |  |  |
-| **`Bərdə cəmi adamların sayı`** | *22 nəfər* |
+| **`Bərdə cəmi adamların sayı`** | *23 nəfər* |
 
 </td>
 </tr>
