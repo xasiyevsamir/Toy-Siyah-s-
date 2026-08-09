@@ -433,43 +433,43 @@ _`Mingəçevir Hesablama`_
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 | --- | --- | --- |--- |--- |--- |--- |--- |--- |
 | __1__ |__`Əli Məmmədnəvi`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Salahəddin`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Rəşad qonşu`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Fariz`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Qazı`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Zahir Cahid`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Yaşar Fuad`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Məhəmməd Fəqani`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Sərdar Aynur`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Sənan Aynur`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Babaş`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __1__ |__`Yaşar Fuad`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __2__ |__`Salahəddin`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __3__ |__`Rəşad qonşu`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __4__ |__`Fariz`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __5__ |__`Qazı`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __6__ |__`Zahir Cahid`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __7__ |__`Yaşar Fuad`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __8__ |__`Məhəmməd Fəqani`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __9__ |__`Sərdar Aynur`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __10__ |__`Sənan Aynur`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __11__ |__`Babaş`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __12__ |__`Yaşar Fuad`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __13__ |__`Səfər`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Qaqaş`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Sərvan`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Xəyyam`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Mənsur`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Rəşad`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Göyüş`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`İlqar`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Fəqan`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Məmmə`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Elşən Ruqiyə`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Xəyal`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Ülvü`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Nasir`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Amil`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`Yavər`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Qurvan`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Natiq`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Dədəş`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Ravi`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Xəyal Nərmin`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Elşən Gulnar`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Çıkı`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Coşqun-Kəmalə`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Tural Qoşu`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __28__ |__`null`__ | _null_ | `null` | __`null`__ |`null`|`null`|__`null`__ |`null`|
+| __14__ |__`Qaqaş`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __15__ |__`Sərvan`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __16__ |__`Xəyyam`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __17__ |__`Mənsur`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __18__ |__`Rəşad`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __19__ |__`Göyüş`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __20__ |__`İlqar`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __21__ |__`Fəqan`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __22__ |__`Məmmə`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __23__ |__`Elşən Ruqiyə`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __24__ |__`Xəyal`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __25__ |__`Ülvü`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __26__ |__`Nasir`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __27__ |__`Amil`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __28__ |__`Yavər`__ | _Bakı_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __29__ |__`Qurvan`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __30__ |__`Natiq`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
+| __31__ |__`Dədəş`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
+| __32__ |__`Ravi`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __33__ |__`Xəyal Nərmin`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __34__ |__`Elşən Gulnar`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __35__ |__`Çıkı`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __36__ |__`Coşqun-Kəmalə`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __37__ |__`Tural Qoşu`__ | _Bakı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __38__ |__`null`__ | _null_ | `null` | __`null`__ |`null`|`null`|__`null`__ |`null`|
 
 </div>
 
@@ -518,6 +518,76 @@ _`Bakı Hesablama`_
 
 
 <br/><br/><br/>
+
+
+
+<h2 align="center">
+
+   `Gəncə, Oğuz və Xəsili Siyahısı`
+
+</h2>
+
+<div align="center">
+
+| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
+| --- | --- | --- |--- |--- |--- |--- |--- |--- |
+| __1__ |__`Behbud`__ | _Gəncə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __2__ |__`Rüstəm`__ | _Gəncə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __3__ |__`Mirzə`__ | _Gəncə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __4__ |__`Nadir Samaya`__ | _Xəsili_ | `Tək` | __`İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __5__ |__`Rövşən`__ | _Gəncə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __6__ |__`Yusif`__ | _Oğuz_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __7__ |__`null`__ | _null_ | `null` | __`null`__ |`null`|`null`|__`null`__ |`null`|
+
+</div>
+
+<br/><br/><br/>
+
+
+<div align="center">
+
+_`Gəncə, Oğuz və Xəsili Hesablama`_
+
+<table>
+<tr>
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Gəncə, Oğuz və Xəsili tək adamların dəvətnamə sayı`** | *4 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili Xanımı ilə adamların dəvətnamə sayı`** | *1 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili Ailəvi adamların dəvətnamə sayı`** | *1 dəvətnamə* |
+|  |  |
+| **`Gəncə, Oğuz və Xəsili cəmi dəvətnamə`** | *6 dəvətnamə* |
+
+</td>
+
+<td style="padding-left: 40px;"></td>
+
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Gəncə, Oğuz və Xəsili tək adamların sayı`** | *5 nəfər* |
+| **`Gəncə, Oğuz və Xəsili Xanımı ilə adamların sayı`** | *2 nəfər* |
+| **`Gəncə, Oğuz və Xəsili Ailəvi adamların sayı`** | *3 nəfər* |
+|  |  |
+| **`Gəncə, Oğuz və Xəsili cəmi adamların sayı`** | *10 nəfər* |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<br/><br/><br/>
+
+
 
 
 
