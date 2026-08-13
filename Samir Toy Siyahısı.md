@@ -95,7 +95,6 @@
 | __76__ |__`Ziya`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __77__ |__`Şamil Müəllim`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __78__ |__`Tömbə`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __79__ |__`Habil`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __80__ |__`Qəhraman`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __81__ |__`Məmmədalı`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __82__ |__`Süleyman`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
@@ -169,6 +168,7 @@
 | __21__ |__`Ramil Əfsanə ?`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __22__ |__`Şamil Səyad`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __23__ |__`Amil Nəsib`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __23__ |__`Habil`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __24__ |__`Arzu`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 
 
