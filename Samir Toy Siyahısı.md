@@ -128,6 +128,7 @@
 | __109__ |__`Məhəmməd Fərzalı`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __110__ |__`Ramil Qənimət`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __111__ |__`Mahir Hətəm`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __112__ |__`Nahib Usda`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __110__ |__`Null`__ | _Null_ | `Null` | __`Null`__ |`Null`|`Null`|__`Null`__ |`Null`|
 
 </div>
@@ -162,7 +163,6 @@
 | __14__ |__`Tələt`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __15__ |__`Pərviz`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __16__ |__`Qədir`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __17__ |__`Nahib Usda`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __18__ |__`Maxsud`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __19__ |__`Abdulla Almaz`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __20__ |__`Elşən Ülviyə`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
