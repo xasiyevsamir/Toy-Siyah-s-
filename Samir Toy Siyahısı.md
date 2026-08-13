@@ -6,11 +6,11 @@
    </h1>
 <br/><br/>
 
-
+---
 
 <h2 align="center">
 
-   `Kənd Siyahısı`
+   `Kənd Siyahısı Tək Adamlar`
 
 </h2>
 
@@ -45,11 +45,9 @@
 | __25__ |__`Damət`__ | _Quda_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
 | __26__ |__`Tərbiz`__ | _Ana Əmi oğlu_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
 | __27__ |__`Həmzə`__ | _Ana Əmi qızı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __28__ |__`Damət`__ | _Quda_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
 | __29__ |__`Səyyaf`__ | _Kəndçi_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __30__ |__`Gülməməd`__ | _Kəndçi_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __31__ |__`Məhi`__ | _Quda_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
-| __32__ |__`Səyyaf`__ | _Kəndçi_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __33__ |__`Müslüm`__ | _Kəndçi_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __34__ |__`Vüsal Vəkil`__ | _Kəndçi_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __35__ |__`İsrəfil`__ | _Ana bacı_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
