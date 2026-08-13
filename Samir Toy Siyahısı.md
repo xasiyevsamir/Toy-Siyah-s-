@@ -180,7 +180,7 @@
 
 <h2 align="center">
 
-   `Kənd Siyahısı Xanımı ilə`
+   `Kənd Siyahısı Ailəvi`
 
 </h2>
 
