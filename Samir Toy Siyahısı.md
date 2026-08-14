@@ -263,7 +263,7 @@
 
 <div align="center">
 
-_`Kənd Hesablama`_
+_`Kənd Siyahı Hesablama`_
 
 <table>
 <tr>
@@ -285,11 +285,11 @@ _`Kənd Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların sayı`** | *110 nəfər* |
-| **`Kənd Xanımı ilə adamların sayı`** | *48 nəfər* |
-| **`Kənd Ailəvi adamların sayı`** | *147 nəfər* |
+| **`Kənd tək adamların sayı`** | *125 nəfər* |
+| **`Kənd Xanımı ilə adamların sayı`** | *58 nəfər* |
+| **`Kənd Ailəvi adamların sayı`** | *136 nəfər* |
 |  |  |
-| **`Kənd cəmi adamların sayı`** | *305 nəfər* |
+| **`Kənd cəmi adamların sayı`** | *319 nəfər* |
 
 </td>
 </tr>
