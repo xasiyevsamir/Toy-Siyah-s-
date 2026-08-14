@@ -438,11 +438,11 @@ _`Mingəçevir Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Mingəçevir tək adamların dəvətnamə sayı`** | *12 dəvətnamə* |
-| **`Mingəçevir Xanımı ilə adamların dəvətnamə sayı`** | *8 dəvətnamə* |
-| **`Mingəçevir Ailəvi adamların dəvətnamə sayı`** | *7 dəvətnamə* |
+| **`Mingəçevir tək adamların dəvətnamə sayı`** | *10 dəvətnamə* |
+| **`Mingəçevir Xanımı ilə adamların dəvətnamə sayı`** | *11 dəvətnamə* |
+| **`Mingəçevir Ailəvi adamların dəvətnamə sayı`** | *5 dəvətnamə* |
 |  |  |
-| **`Mingəçevir cəmi dəvətnamə`** | *27 dəvətnamə* |
+| **`Mingəçevir cəmi dəvətnamə`** | *26 dəvətnamə* |
 
 </td>
 
@@ -452,11 +452,11 @@ _`Mingəçevir Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Mingəçevir tək adamların sayı`** | *14 nəfər* |
-| **`Mingəçevir Xanımı ilə adamların sayı`** | *16 nəfər* |
-| **`Mingəçevir Ailəvi adamların sayı`** | *24 nəfər* |
+| **`Mingəçevir tək adamların sayı`** | *10 nəfər* |
+| **`Mingəçevir Xanımı ilə adamların sayı`** | *22 nəfər* |
+| **`Mingəçevir Ailəvi adamların sayı`** | *19 nəfər* |
 |  |  |
-| **`Mingəçevir cəmi adamların sayı`** | *54 nəfər* |
+| **`Mingəçevir cəmi adamların sayı`** | *51 nəfər* |
 
 </td>
 </tr>
