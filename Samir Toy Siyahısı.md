@@ -583,13 +583,12 @@ _`Bakı Hesablama`_
 
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 | --- | --- | --- |--- |--- |--- |--- |--- |--- |
-| __1__ |__`Behbud`__ | _Gəncə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __2__ |__`Rüstəm`__ | _Gəncə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __3__ |__`Mirzə`__ | _Gəncə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __1__ |__`Yusif`__ | _Oğuz_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __2__ |__`Rövşən`__ | _Gəncə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __3__ |__`Behbud`__ | _Gəncə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __4__ |__`Nadir Samaya`__ | _Xəsili_ | `Tək` | __`İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __5__ |__`Rövşən`__ | _Gəncə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __6__ |__`Yusif`__ | _Oğuz_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __7__ |__`null`__ | _null_ | `null` | __`null`__ |`null`|`null`|__`null`__ |`null`|
+| __5__ |__`Rüstəm`__ | _Gəncə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __6__ |||||||||
 
 </div>
 
@@ -598,7 +597,7 @@ _`Bakı Hesablama`_
 
 <div align="center">
 
-_`Gəncə, Oğuz və Xəsili Hesablama`_
+_`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 
 <table>
 <tr>
@@ -606,11 +605,11 @@ _`Gəncə, Oğuz və Xəsili Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Gəncə, Oğuz və Xəsili tək dəvətnamə sayı`** | *4 dəvətnamə* |
-| **`Gəncə, Oğuz və Xəsili Xanımı ilə dəvətnamə sayı`** | *1 dəvətnamə* |
-| **`Gəncə, Oğuz və Xəsili Ailəvi dəvətnamə sayı`** | *1 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili tək dəvətnamə sayı`** | *1 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili Xanımı ilə dəvətnamə sayı`** | *2 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili Ailəvi dəvətnamə sayı`** | *2 dəvətnamə* |
 |  |  |
-| **`Gəncə, Oğuz və Xəsili cəmi dəvətnamə`** | *6 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili cəmi dəvətnamə`** | *5 dəvətnamə* |
 
 </td>
 
@@ -620,11 +619,11 @@ _`Gəncə, Oğuz və Xəsili Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Gəncə, Oğuz və Xəsili tək adamların sayı`** | *5 nəfər* |
-| **`Gəncə, Oğuz və Xəsili Xanımı ilə adamların sayı`** | *2 nəfər* |
-| **`Gəncə, Oğuz və Xəsili Ailəvi adamların sayı`** | *3 nəfər* |
+| **`Gəncə, Oğuz və Xəsili tək adamların sayı`** | *1 nəfər* |
+| **`Gəncə, Oğuz və Xəsili Xanımı ilə adamların sayı`** | *4 nəfər* |
+| **`Gəncə, Oğuz və Xəsili Ailəvi adamların sayı`** | *4 nəfər* |
 |  |  |
-| **`Gəncə, Oğuz və Xəsili cəmi adamların sayı`** | *10 nəfər* |
+| **`Gəncə, Oğuz və Xəsili cəmi adamların sayı`** | *9 nəfər* |
 
 </td>
 </tr>
