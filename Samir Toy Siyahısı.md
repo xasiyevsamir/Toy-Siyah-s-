@@ -316,22 +316,24 @@ _`Kənd Siyahı Hesablama`_
 
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 | --- | --- | --- |--- |--- |--- |--- |--- |--- |
-| __1__ |__`Elgiz`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __2__ |__`Fərrux`__ | _Bərdə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __3__ |__`Fərid`__ | _Bərdə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __4__ |__`Fayiq`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __5__ |__`Qabil`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __6__ |__`İsmayıl Müəllim`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __7__ |__`Dilavər`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __8__ |__`Qərib Usda`__ | _Qərəvəlli_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __9__ |__`Azər Mamed`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __10__ |__`Səbuhi Qılışdı`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __11__ |__`Sahib Qaradırnaq`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __12__ |__`Asif Qaradırnaq`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __13__ |__`İlham`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __14__ |__`Aybəniz`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __15__ |__`Neymət`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
-| __16__ |__`null`__ | _null_ | `null` | __`null`__ |`null`|`null`|__`null`__ |`null`|
+| __1__  |__`İlham`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __2__  |__`Neymət`__ | _Bərdə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
+| __3__  |__`Azər (Mamed)`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __4__  |__`Səbuhi (Qılışdı)`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __5__  |__`Sahib (Qaradırnaq)`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __6__  |__`Asif (Qaradırnaq)`__ | _Bərdə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __7__  |__`Aybəniz (Elşən)`__ | _Bərdə_ | `2 Nəfər` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __8__  |__`Qərib Usda (Qərəvəlli)`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __9__  |__`Elgiz`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __10__ |__`Fərrux`__ | _Bərdə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __11__ |__`Fərid`__ | _Bərdə_ | `Tək` | __`İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __12__ |__`Fayiq`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __13__ |__`Qabil`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __14__ |__`İsmayıl Müəllim`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __15__ |__`Dilavər`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __16__ |__`Akış`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __17__ |__`İlkin (İnşaat)`__ | _Bərdə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __18__ |||||||||
 
 </div>
 
@@ -340,7 +342,7 @@ _`Kənd Siyahı Hesablama`_
 
 <div align="center">
 
-_`Bərdə Hesablama`_
+_`Bərdə Siyahı Hesablama`_
 
 <table>
 <tr>
@@ -348,11 +350,11 @@ _`Bərdə Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bərdə tək adamların dəvətnamə sayı`** | *8 dəvətnamə* |
-| **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *4 dəvətnamə* |
-| **`Bərdə Ailəvi adamların dəvətnamə sayı`** | *3 dəvətnamə* |
+| **`Bərdə tək adamların dəvətnamə sayı`** | *10 dəvətnamə* |
+| **`Bərdə Xanımı ilə adamların dəvətnamə sayı`** | *5 dəvətnamə* |
+| **`Bərdə Ailəvi adamların dəvətnamə sayı`** | *2 dəvətnamə* |
 |  |  |
-| **`Bərdə cəmi dəvətnamə`** | *15 dəvətnamə* |
+| **`Bərdə cəmi dəvətnamə`** | *17 dəvətnamə* |
 
 </td>
 
