@@ -143,7 +143,7 @@
 | __123__ |__`Duman`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __124__ |__`Vüqar (Şəlalə)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __125__ |__`Taleh (Gövhər)`__ | _Ana Əmiqızı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __126__ |__`Null`__ | _Null_ | `Null` | __`Null`__ |`Null`|`Null`|__`Null`__ |`Null`|
+| __126__ |||||||||
 
 </div>
 
@@ -271,11 +271,11 @@ _`Kənd Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların dəvətnamə sayı`** | *110 dəvətnamə* |
-| **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *24 dəvətnamə* |
-| **`Kənd Ailəvi adamların dəvətnamə sayı`** | *52 dəvətnamə* |
+| **`Kənd tək adamların dəvətnamə sayı`** | *125 dəvətnamə* |
+| **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *29 dəvətnamə* |
+| **`Kənd Ailəvi adamların dəvətnamə sayı`** | *46 dəvətnamə* |
 |  |  |
-| **`Kənd cəmi dəvətnamə`** | *186 dəvətnamə* |
+| **`Kənd cəmi dəvətnamə`** | *200 dəvətnamə* |
 
 </td>
 
