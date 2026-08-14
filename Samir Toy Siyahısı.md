@@ -364,11 +364,11 @@ _`Bərdə Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bərdə tək adamların sayı`** | *8 nəfər* |
-| **`Bərdə Xanımı ilə adamların sayı`** | *8 nəfər* |
-| **`Bərdə Ailəvi adamların sayı`** | *7 nəfər* |
+| **`Bərdə tək adamların sayı`** | *10 nəfər* |
+| **`Bərdə Xanımı ilə adamların sayı`** | *10 nəfər* |
+| **`Bərdə Ailəvi adamların sayı`** | *5 nəfər* |
 |  |  |
-| **`Bərdə cəmi adamların sayı`** | *23 nəfər* |
+| **`Bərdə cəmi adamların sayı`** | *25 nəfər* |
 
 </td>
 </tr>
