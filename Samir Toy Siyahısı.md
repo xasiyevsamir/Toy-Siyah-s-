@@ -139,11 +139,11 @@
 | __119__ |__`Tural`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __120__ |__`Baxşeyiş`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __121__ |__`Anar (Rafiq Müəllim)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __121__ |__`Adgözəl (Ülviyə)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __121__ |__`Duman`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __121__ |__`Vüqar (Şəlalə)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __122__ |__`Taleh (Gövhər)`__ | _Ana Əmiqızı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __123__ |__`Null`__ | _Null_ | `Null` | __`Null`__ |`Null`|`Null`|__`Null`__ |`Null`|
+| __122__ |__`Adgözəl (Ülviyə)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __123__ |__`Duman`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __124__ |__`Vüqar (Şəlalə)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __125__ |__`Taleh (Gövhər)`__ | _Ana Əmiqızı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __126__ |__`Null`__ | _Null_ | `Null` | __`Null`__ |`Null`|`Null`|__`Null`__ |`Null`|
 
 </div>
 
