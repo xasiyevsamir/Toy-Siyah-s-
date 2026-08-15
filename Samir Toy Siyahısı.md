@@ -794,13 +794,3 @@ _`Cəmi Siyahı Hesablama`_
 
 
 <br/><br/><br/>
-
-
-
-
-
-- İlqar rusiyaddadir gelemeyecek -- 1 nefer 
-- İsmayıl rusiyaddadir gelemeyecek -- 1 nefer 
-- Mayıl rusiyaddadir gelemeyecek -- 1 nefer 
-
-- Əhliman adindan 2 denedir
