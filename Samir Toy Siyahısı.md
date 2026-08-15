@@ -143,7 +143,8 @@
 | __123__ |__`Duman`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __124__ |__`Vüqar (Şəlalə)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __125__ |__`Taleh (Gövhər)`__ | _Ana Əmiqızı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __126__ |||||||||
+| __126__ |__`Fəxri (Xanoğlan oğlu)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __127__ |||||||||
 
 </div>
 
@@ -185,12 +186,11 @@
 | __22__ |__`Müslüm`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __23__ |__`Elşən (Ülviyə)`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __24__ |__`Xanoğlan`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __25__ |__`Ramil (Əfsanə)`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __26__ |__`Feyruz`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __27__ |__`Şamil (Səyad)`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __28__ |__`Amil (Nəsib)`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __29__ |__`Samir (Zeynəb)`__ | _Kəndçi_ | `2 nəfər` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __30__ |||||||||
+| __25__ |__`Feyruz`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __26__ |__`Şamil (Səyad)`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __27__ |__`Amil (Nəsib)`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __28__ |__`Samir (Zeynəb)`__ | _Kəndçi_ | `2 nəfər` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __29__ |||||||||
 
 </div>
 
@@ -271,8 +271,8 @@ _`Kənd Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların dəvətnamə sayı`** | *125 dəvətnamə* |
-| **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *29 dəvətnamə* |
+| **`Kənd tək adamların dəvətnamə sayı`** | *126 dəvətnamə* |
+| **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *28 dəvətnamə* |
 | **`Kənd Ailəvi adamların dəvətnamə sayı`** | *46 dəvətnamə* |
 |  |  |
 | **`Kənd cəmi dəvətnamə`** | *200 dəvətnamə* |
@@ -285,11 +285,11 @@ _`Kənd Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların sayı`** | *125 nəfər* |
-| **`Kənd Xanımı ilə adamların sayı`** | *58 nəfər* |
+| **`Kənd tək adamların sayı`** | *126 nəfər* |
+| **`Kənd Xanımı ilə adamların sayı`** | *56 nəfər* |
 | **`Kənd Ailəvi adamların sayı`** | *136 nəfər* |
 |  |  |
-| **`Kənd cəmi adamların sayı`** | *319 nəfər* |
+| **`Kənd cəmi adamların sayı`** | *318 nəfər* |
 
 </td>
 </tr>
