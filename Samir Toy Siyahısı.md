@@ -644,7 +644,7 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 
 <h2 align="center">
 
-   `Samir Qrup Yoldaşlar və s. Siyahısı`
+   `Samir Qrup,Dosd Iş yoldaşlar və s. Siyahısı`
 
 </h2>
 
@@ -652,18 +652,56 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 | --- | --- | --- |--- |--- |--- |--- |--- |--- |
-| __1__  |__`Vaqif`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __2__  |__`Cavid`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __3__  |__`İslam`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __1__  |__`Vaqif`__   | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __2__  |__`Cavid`__   | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __3__  |__`İslam`__   | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __4__  |__`Mustafa`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __5__  |__`Nicat`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __6__  |__`Valeh`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __7__  |__`Elvin`__ | _Xaldan (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __8__  |__`İlkin`__ | _Şəki (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __9__  |__`Arif`__ | _Ağdaş (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __10__ |__`Valeh`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-
-| __37__ ||| ||||||
+| __5__  |__`Nicat`__   | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __6__  |__`Valeh`__   | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __7__  |__`Elvin`__   | _Xaldan (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __8__  |__`İlkin`__   | _Şəki (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __9__  |__`Arif`__    | _Ağdaş (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __10__ |__`Zamiq Müəllim`__ | _Yevlax (İş)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __11__ |__`Elvin`__   | _Yevlax (İş)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __12__ |__`Rəhman`__  | _Xanərəb (İş)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __13__ |__`Məhyəddin`__ | _Bərdə (İş)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __14__ |__`Elcan`__ | _Bərdə (İş)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __15__ |__`Orxan`__ | _Mingəçevir (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __16__ |__`Mamed`__ | _Mingəçevir (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __17__ |__`Hamil`__ | _Şəki (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __18__ |__`Səbuhi`__ | _Bakı (Bərbər)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __19__ |__`Sərdar`__ | _Bakı (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __20__ |__`Sənan`__ | _Bakı (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __21__ |__`Babaş`__ | _Bakı (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __22__ |__`Nicat (Bəylər)`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __23__ |__`Nicat Code`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __24__ |__`Kənan Code`__ | _Quba_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __25__ |__`Vaqif Code`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __26__ |__`Teymur Əsgər`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __27__ |__`Marif Əsgər`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __28__ |__`Sahil Əsgər`__ | _Ağcəbədi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __29__ |__`Talıb`__ | _Kənd (Sinif)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __20__ |__`Vasif`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __31__ |__`Sadı`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __32__ |__`Ələkbər`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __33__ |__`İftixar`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+||||__`Dəvətnamə Olmayacaq`__ ||||||
+| __34__ |__`Meyti`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __35__ |__`Şoşu`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __36__ |__`Ziya`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __37__ |__`İsrail`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __38__ |__`Elgiz`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __39__ |__`Fərhad`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __40__ |__`Həsən`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __41__ |__`Həmid`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __42__ |__`Zamir (Çıkı)`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __43__ |__`Ömər`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __44__ |__`Pərviz`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __45__ |__`İsmayıl`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __46__ |__`Hikmət`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __47__ |__`Elcan`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __48__ |__`Məhiş`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __49__ ||| ||||||
 
 </div>
 
@@ -672,7 +710,7 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 
 <div align="center">
 
-_`Bakı Siyahı Hesablama`_
+_`Samir Qrup,Dosd Iş yoldaşlar Siyahı Hesablama`_
 
 <table>
 <tr>
@@ -680,11 +718,9 @@ _`Bakı Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bakı tək adamların dəvətnamə sayı`** | *11 dəvətnamə* |
-| **`Bakı Xanımı ilə adamların dəvətnamə sayı`** | *13 dəvətnamə* |
-| **`Bakı Ailəvi adamların dəvətnamə sayı`** | *12 dəvətnamə* |
+| **`Samir Qrup,Dosd Iş yoldaşlar tək adamların dəvətnamə sayı`** | *33 dəvətnamə* |
 |  |  |
-| **`Bakı cəmi dəvətnamə`** | *36 dəvətnamə* |
+| **`Samir Qrup,Dosd Iş yoldaşlar cəmi dəvətnamə`** | *33 dəvətnamə* |
 
 </td>
 
@@ -694,11 +730,7 @@ _`Bakı Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bakı tək adamların sayı`** | *11 nəfər* |
-| **`Bakı Xanımı ilə adamların sayı`** | *26 nəfər* |
-| **`Bakı Ailəvi adamların sayı`** | *34 nəfər* |
-|  |  |
-| **`Bakı cəmi adamların sayı`** | *71 nəfər* |
+| **`Samir Qrup,Dosd Iş yoldaşlar tək adamların sayı`** | *48 nəfər* |
 
 </td>
 </tr>
