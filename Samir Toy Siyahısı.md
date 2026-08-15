@@ -721,10 +721,7 @@ _`Samir Qrup,Dosd Iş yoldaşlar Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Samir Qrup,Dosd Iş yoldaşlar tək adamların dəvətnamə sayı`** | *33 dəvətnamə* |
-|  |  |
-| **`Samir Qrup,Dosd Iş yoldaşlar cəmi dəvətnamə`** | *33 dəvətnamə* |
-
+| **`Samir Qrup,Dosd Iş yoldaşlar tək adamların dəvətnamə sayı`** | *34 dəvətnamə* |
 </td>
 
 <td style="padding-left: 40px;"></td>
@@ -733,7 +730,7 @@ _`Samir Qrup,Dosd Iş yoldaşlar Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Samir Qrup,Dosd Iş yoldaşlar tək adamların sayı`** | *48 nəfər* |
+| **`Samir Qrup,Dosd Iş yoldaşlar tək adamların sayı`** | *30 nəfər* |
 
 </td>
 </tr>
@@ -749,10 +746,48 @@ _`Samir Qrup,Dosd Iş yoldaşlar Siyahı Hesablama`_
 <br/><br/><br/>
 
 
+<div align="center">
+
+_`Cəmi Siyahı Hesablama`_
+
+<table>
+<tr>
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Cəmi tək adamların dəvətnamə sayı`** | *11 dəvətnamə* |
+| **`Cəmi Xanımı ilə adamların dəvətnamə sayı`** | *13 dəvətnamə* |
+| **`Cəmi Ailəvi adamların dəvətnamə sayı`** | *12 dəvətnamə* |
+|  |  |
+| **`Cəmi dəvətnamə`** | *36 dəvətnamə* |
+
+</td>
+
+<td style="padding-left: 40px;"></td>
+
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Cəmi tək adamların sayı`** | *11 nəfər* |
+| **`Cəmi Xanımı ilə adamların sayı`** | *26 nəfər* |
+| **`Cəmi Ailəvi adamların sayı`** | *34 nəfər* |
+|  |  |
+| **`Cəmi adamların sayı`** | *71 nəfər* |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
+<br/><br/><br/>
 
 
 
