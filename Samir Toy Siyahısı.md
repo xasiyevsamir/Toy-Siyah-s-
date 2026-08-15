@@ -748,7 +748,11 @@ _`Samir Qrup,Dosd Iş yoldaşlar Siyahı Hesablama`_
 
 <div align="center">
 
+<h1> 
+
 _`Cəmi Siyahı Hesablama`_
+
+</h1>
 
 <table>
 <tr>
