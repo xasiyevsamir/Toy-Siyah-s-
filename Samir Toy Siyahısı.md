@@ -653,7 +653,7 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 | --- | --- | --- |--- |--- |--- |--- |--- |--- |
 | __1__  |__`Vaqif`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __2__  |__`Cavid`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __2__  |__`Cavid`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __3__  |__`İslam`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __4__  |__`Mustafa`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __5__  |__`Nicat`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
