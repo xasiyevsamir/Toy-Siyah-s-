@@ -642,6 +642,87 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 
 
 
+<h2 align="center">
+
+   `Samir Qrup Yoldaşlar və s. Siyahısı`
+
+</h2>
+
+<div align="center">
+
+| __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
+| --- | --- | --- |--- |--- |--- |--- |--- |--- |
+| __1__  |__`Vaqif`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __2__  |__`Cavid`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __3__  |__`İslam`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __4__  |__`Mustafa`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __5__  |__`Nicat`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __6__  |__`Valeh`__ | _Mingəçevir (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __7__  |__`Elvin`__ | _Xaldan (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __8__  |__`İlkin`__ | _Şəki (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __9__  |__`Arif`__ | _Ağdaş (MDU)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __10__ |__`Valeh`__ | _Mingəçevir_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+
+| __37__ ||| ||||||
+
+</div>
+
+<br/><br/><br/>
+
+
+<div align="center">
+
+_`Bakı Siyahı Hesablama`_
+
+<table>
+<tr>
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Bakı tək adamların dəvətnamə sayı`** | *11 dəvətnamə* |
+| **`Bakı Xanımı ilə adamların dəvətnamə sayı`** | *13 dəvətnamə* |
+| **`Bakı Ailəvi adamların dəvətnamə sayı`** | *12 dəvətnamə* |
+|  |  |
+| **`Bakı cəmi dəvətnamə`** | *36 dəvətnamə* |
+
+</td>
+
+<td style="padding-left: 40px;"></td>
+
+<td valign="top">
+
+| **`Başlıq`** | **`Say`** |
+|---|---:|
+| **`Bakı tək adamların sayı`** | *11 nəfər* |
+| **`Bakı Xanımı ilə adamların sayı`** | *26 nəfər* |
+| **`Bakı Ailəvi adamların sayı`** | *34 nəfər* |
+|  |  |
+| **`Bakı cəmi adamların sayı`** | *71 nəfər* |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<br/><br/><br/>
+
+
+
+
+
+
+
+
+
+
+
 - İlqar rusiyaddadir gelemeyecek -- 1 nefer 
 - İsmayıl rusiyaddadir gelemeyecek -- 1 nefer 
 - Mayıl rusiyaddadir gelemeyecek -- 1 nefer 
