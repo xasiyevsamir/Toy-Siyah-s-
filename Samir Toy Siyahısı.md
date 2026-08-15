@@ -144,6 +144,8 @@
 | __124__ |__`Vüqar (Şəlalə)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __125__ |__`Taleh (Gövhər)`__ | _Ana Əmiqızı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __126__ |__`Fəxri (Xanoğlan oğlu)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __127__ |__`Qurban (Yuxarı)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __128__ |__`Rövşən (Səyyaf)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __127__ |||||||||
 
 </div>
@@ -271,11 +273,11 @@ _`Kənd Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların dəvətnamə sayı`** | *126 dəvətnamə* |
+| **`Kənd tək adamların dəvətnamə sayı`** | *128 dəvətnamə* |
 | **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *28 dəvətnamə* |
 | **`Kənd Ailəvi adamların dəvətnamə sayı`** | *46 dəvətnamə* |
 |  |  |
-| **`Kənd cəmi dəvətnamə`** | *200 dəvətnamə* |
+| **`Kənd cəmi dəvətnamə`** | *202 dəvətnamə* |
 
 </td>
 
@@ -285,11 +287,11 @@ _`Kənd Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların sayı`** | *126 nəfər* |
+| **`Kənd tək adamların sayı`** | *128 nəfər* |
 | **`Kənd Xanımı ilə adamların sayı`** | *56 nəfər* |
 | **`Kənd Ailəvi adamların sayı`** | *136 nəfər* |
 |  |  |
-| **`Kənd cəmi adamların sayı`** | *318 nəfər* |
+| **`Kənd cəmi adamların sayı`** | *320 nəfər* |
 
 </td>
 </tr>
@@ -760,11 +762,11 @@ _`Cəmi Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Cəmi tək adamların dəvətnamə sayı`** | *192 dəvətnamə* |
+| **`Cəmi tək adamların dəvətnamə sayı`** | *194 dəvətnamə* |
 | **`Cəmi Xanımı ilə adamların dəvətnamə sayı`** | *59 dəvətnamə* |
 | **`Cəmi Ailəvi adamların dəvətnamə sayı`** | *68 dəvətnamə* |
 |  |  |
-| **`Cəmi dəvətnamə`** | *319 dəvətnamə* |
+| **`Cəmi dəvətnamə`** | *321 dəvətnamə* |
 
 </td>
 
@@ -774,11 +776,11 @@ _`Cəmi Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Cəmi tək adamların sayı`** | *188 nəfər* |
+| **`Cəmi tək adamların sayı`** | *190 nəfər* |
 | **`Cəmi Xanımı ilə adamların sayı`** | *118 nəfər* |
 | **`Cəmi Ailəvi adamların sayı`** | *200 nəfər* |
 |  |  |
-| **`Cəmi adamların sayı`** | *506 nəfər* |
+| **`Cəmi adamların sayı`** | *508 nəfər* |
 
 </td>
 </tr>
