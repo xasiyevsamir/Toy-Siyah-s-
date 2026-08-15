@@ -760,11 +760,11 @@ _`Cəmi Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Cəmi tək adamların dəvətnamə sayı`** | *11 dəvətnamə* |
-| **`Cəmi Xanımı ilə adamların dəvətnamə sayı`** | *13 dəvətnamə* |
-| **`Cəmi Ailəvi adamların dəvətnamə sayı`** | *12 dəvətnamə* |
+| **`Cəmi tək adamların dəvətnamə sayı`** | *192 dəvətnamə* |
+| **`Cəmi Xanımı ilə adamların dəvətnamə sayı`** | *59 dəvətnamə* |
+| **`Cəmi Ailəvi adamların dəvətnamə sayı`** | *68 dəvətnamə* |
 |  |  |
-| **`Cəmi dəvətnamə`** | *36 dəvətnamə* |
+| **`Cəmi dəvətnamə`** | *319 dəvətnamə* |
 
 </td>
 
@@ -774,11 +774,11 @@ _`Cəmi Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Cəmi tək adamların sayı`** | *11 nəfər* |
-| **`Cəmi Xanımı ilə adamların sayı`** | *26 nəfər* |
-| **`Cəmi Ailəvi adamların sayı`** | *34 nəfər* |
+| **`Cəmi tək adamların sayı`** | *188 nəfər* |
+| **`Cəmi Xanımı ilə adamların sayı`** | *118 nəfər* |
+| **`Cəmi Ailəvi adamların sayı`** | *200 nəfər* |
 |  |  |
-| **`Cəmi adamların sayı`** | *71 nəfər* |
+| **`Cəmi adamların sayı`** | *506 nəfər* |
 
 </td>
 </tr>
