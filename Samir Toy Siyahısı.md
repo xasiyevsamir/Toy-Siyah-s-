@@ -693,7 +693,10 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 | __33__ |__`Ələkbər`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __34__ |__`İftixar`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 ||||||||||
+||||||||||
 |||||__`Dəvətnamə Olmayacaq`__|||||
+||||||||||
+||||||||||
 | __35__ |__`Meyti`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __36__ |__`Şoşu`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __37__ |__`Ziya`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
