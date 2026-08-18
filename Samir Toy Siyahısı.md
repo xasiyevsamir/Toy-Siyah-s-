@@ -693,7 +693,7 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 | __33__ |__`Ələkbər`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __34__ |__`İftixar`__ | _Kənd (Dosd)_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 ||||||||||
-||||__`Dəvətnamə Olmayacaq`__||||||
+|||||__`Dəvətnamə Olmayacaq`__|||||
 | __35__ |__`Meyti`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __36__ |__`Şoşu`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __37__ |__`Ziya`__ | _Kənd_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
@@ -766,11 +766,11 @@ _`Cəmi Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Cəmi tək adamların dəvətnamə sayı`** | *194 dəvətnamə* |
+| **`Cəmi tək adamların dəvətnamə sayı`** | *198 dəvətnamə* |
 | **`Cəmi Xanımı ilə adamların dəvətnamə sayı`** | *59 dəvətnamə* |
 | **`Cəmi Ailəvi adamların dəvətnamə sayı`** | *68 dəvətnamə* |
 |  |  |
-| **`Cəmi dəvətnamə`** | *321 dəvətnamə* |
+| **`Cəmi dəvətnamə`** | *325 dəvətnamə* |
 
 </td>
 
@@ -780,11 +780,11 @@ _`Cəmi Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Cəmi tək adamların sayı`** | *190 nəfər* |
+| **`Cəmi tək adamların sayı`** | *198 nəfər* |
 | **`Cəmi Xanımı ilə adamların sayı`** | *118 nəfər* |
 | **`Cəmi Ailəvi adamların sayı`** | *200 nəfər* |
 |  |  |
-| **`Cəmi adamların sayı`** | *508 nəfər* |
+| **`Cəmi adamların sayı`** | *516 nəfər* |
 
 </td>
 </tr>
