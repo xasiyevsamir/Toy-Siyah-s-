@@ -146,7 +146,8 @@
 | __126__ |__`Fəxri (Xanoğlan oğlu)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __127__ |__`Qurban`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __128__ |__`Rövşən (Səyyaf)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __127__ |||||||||
+| __129__ |__`Meyti (Nifdalı)`__ | _Kəndçi_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __130__ |||||||||
 
 </div>
 
@@ -273,11 +274,11 @@ _`Kənd Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların dəvətnamə sayı`** | *128 dəvətnamə* |
+| **`Kənd tək adamların dəvətnamə sayı`** | *129 dəvətnamə* |
 | **`Kənd Xanımı ilə adamların dəvətnamə sayı`** | *28 dəvətnamə* |
 | **`Kənd Ailəvi adamların dəvətnamə sayı`** | *46 dəvətnamə* |
 |  |  |
-| **`Kənd cəmi dəvətnamə`** | *202 dəvətnamə* |
+| **`Kənd cəmi dəvətnamə`** | *203 dəvətnamə* |
 
 </td>
 
@@ -287,11 +288,11 @@ _`Kənd Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Kənd tək adamların sayı`** | *128 nəfər* |
+| **`Kənd tək adamların sayı`** | *129 nəfər* |
 | **`Kənd Xanımı ilə adamların sayı`** | *56 nəfər* |
 | **`Kənd Ailəvi adamların sayı`** | *136 nəfər* |
 |  |  |
-| **`Kənd cəmi adamların sayı`** | *320 nəfər* |
+| **`Kənd cəmi adamların sayı`** | *321 nəfər* |
 
 </td>
 </tr>
@@ -522,7 +523,9 @@ _`Mingəçevir Siyahı Hesablama`_
 | __34__ |__`Salahəddin`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __35__ |__`Tural (Könül)`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
 | __36__ |__`Ülvü (Qəşəm)`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __37__ ||| ||||||
+| __37__ |__`Xəlil`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __38__ |__`Cavanşir`__ | _Bakı_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __39__ ||| ||||||
 
 </div>
 
@@ -539,11 +542,11 @@ _`Bakı Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bakı tək adamların dəvətnamə sayı`** | *11 dəvətnamə* |
+| **`Bakı tək adamların dəvətnamə sayı`** | *13 dəvətnamə* |
 | **`Bakı Xanımı ilə adamların dəvətnamə sayı`** | *13 dəvətnamə* |
 | **`Bakı Ailəvi adamların dəvətnamə sayı`** | *12 dəvətnamə* |
 |  |  |
-| **`Bakı cəmi dəvətnamə`** | *36 dəvətnamə* |
+| **`Bakı cəmi dəvətnamə`** | *38 dəvətnamə* |
 
 </td>
 
@@ -553,11 +556,11 @@ _`Bakı Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Bakı tək adamların sayı`** | *11 nəfər* |
+| **`Bakı tək adamların sayı`** | *13 nəfər* |
 | **`Bakı Xanımı ilə adamların sayı`** | *26 nəfər* |
 | **`Bakı Ailəvi adamların sayı`** | *34 nəfər* |
 |  |  |
-| **`Bakı cəmi adamların sayı`** | *71 nəfər* |
+| **`Bakı cəmi adamların sayı`** | *73 nəfər* |
 
 </td>
 </tr>
