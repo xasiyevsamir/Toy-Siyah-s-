@@ -587,9 +587,10 @@ _`Bakı Siyahı Hesablama`_
 | __1__ |__`Yusif`__ | _Oğuz_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __2__ |__`Rövşən`__ | _Gəncə_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
 | __3__ |__`Behbud`__ | _Gəncə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __4__ |__`Nadir (Samaya)`__ | _Xəsili_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
-| __5__ |__`Rüstəm`__ | _Gəncə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
-| __6__ |||||||||
+| __4__ |__`Tural (Yusif Yeznə)`__ | _Oğuz_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __5__ |__`Nadir (Samaya)`__ | _Xəsili_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __6__ |__`Rüstəm`__ | _Gəncə_ | `Tək` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`0 AZN`__ |`Boş`|
+| __7__ |||||||||
 
 </div>
 
@@ -606,11 +607,11 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Gəncə, Oğuz və Xəsili tək dəvətnamə sayı`** | *1 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili tək dəvətnamə sayı`** | *2 dəvətnamə* |
 | **`Gəncə, Oğuz və Xəsili Xanımı ilə dəvətnamə sayı`** | *2 dəvətnamə* |
 | **`Gəncə, Oğuz və Xəsili Ailəvi dəvətnamə sayı`** | *2 dəvətnamə* |
 |  |  |
-| **`Gəncə, Oğuz və Xəsili cəmi dəvətnamə`** | *5 dəvətnamə* |
+| **`Gəncə, Oğuz və Xəsili cəmi dəvətnamə`** | *6 dəvətnamə* |
 
 </td>
 
@@ -620,11 +621,11 @@ _`Gəncə, Oğuz və Xəsili Siyahı Hesablama`_
 
 | **`Başlıq`** | **`Say`** |
 |---|---:|
-| **`Gəncə, Oğuz və Xəsili tək adamların sayı`** | *1 nəfər* |
+| **`Gəncə, Oğuz və Xəsili tək adamların sayı`** | *2 nəfər* |
 | **`Gəncə, Oğuz və Xəsili Xanımı ilə adamların sayı`** | *4 nəfər* |
 | **`Gəncə, Oğuz və Xəsili Ailəvi adamların sayı`** | *4 nəfər* |
 |  |  |
-| **`Gəncə, Oğuz və Xəsili cəmi adamların sayı`** | *9 nəfər* |
+| **`Gəncə, Oğuz və Xəsili cəmi adamların sayı`** | *10 nəfər* |
 
 </td>
 </tr>
