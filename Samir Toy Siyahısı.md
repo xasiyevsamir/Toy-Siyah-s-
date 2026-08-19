@@ -398,7 +398,7 @@ _`Bərdə Siyahı Hesablama`_
 
 | __`№`__ | __`Adlar`__ | __`Qohumluq`__ | __`Dəvət Forması`__ | __`İştirak`__ | __`Dəvət Sayı`__ | __`İştirak Sayı`__ | __`Məbləğ (AZN)`__ | __`Qeyd`__ |
 | --- | --- | --- |--- |--- |--- |--- |--- |--- |
-| __1__  |__`Arzuman`__ | _Mingəçevir Qardaş_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`5`|`0`|__`0 AZN`__ |`Boş`|
+| __1__  |__`Arzuman`__ | _Mingəçevir Qardaş_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`6`|`0`|__`0 AZN`__ |`Boş`|
 | __2__  |__`Elçin`__ | _Mingəçevir Qardaş_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
 | __3__  |__`İlkin (Yeznə)`__ | _Mingəçevir_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`3`|`0`|__`0 AZN`__ |`Boş`|
 | __4__  |__`Eldar (Elçin)`__ | _Mingəçevir_ | `Ailəvi` | __`İştirak etdi /  İştirak Etmədi`__ |`4`|`0`|__`0 AZN`__ |`Boş`|
