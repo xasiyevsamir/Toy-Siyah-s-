@@ -176,7 +176,7 @@
 | __1__  |__`Məmməd`__ | _Kəndçi Küçə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`1`|`0`|__`70 AZN`__ |`Boş`|
 | __2__  |__`Güloğlan`__ | _Ana Əmioğlu_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`60 AZN`__ |`Boş`|
 | __3__  |__`Allahverdi`__ | _Ata Xala oğlu_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`50 AZN`__ |`Boş`|
-| __4__  |__`Mahmud`__ | _Kəndçi Küçə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`0 AZN`__ |`Boş`|
+| __4__  |__`Mahmud`__ | _Kəndçi Küçə_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`100 AZN`__ |`Boş`|
 | __5__  |__`Elməddin`__ | _Qonşu_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`50 AZN`__ |`Boş`|
 | __6__  |__`Yusifəli`__ | _Qonşu_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`80 AZN`__ |`Boş`|
 | __7__  |__`Sabir`__ | _Kəndçi_ | `Xanımı ilə` | __`İştirak etdi /  İştirak Etmədi`__ |`2`|`0`|__`50 AZN`__ |`Boş`|
