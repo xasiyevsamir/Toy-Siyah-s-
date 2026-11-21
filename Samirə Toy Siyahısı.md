@@ -1,7 +1,7 @@
 <br/>
 <h1 align="center">
 
-   `↘️ Samirə Toy Siyahısı 06.12.2026 ↙️`
+   `↘️ Samirə Toy Siyahısı 06.12.20266 ↙️`
 
    </h1>
 <br/><br/>
